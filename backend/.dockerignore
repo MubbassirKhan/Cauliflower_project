@@ -1,0 +1,24 @@
+# Exclude all models except the one we need
+models/*
+!models/01Efficient5050.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Misc
+.DS_Store
+*.log
+.env

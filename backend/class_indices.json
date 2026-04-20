@@ -1,0 +1,10 @@
+{
+  "Alternaria Leaf Spot": 0,
+  "Anthracnose": 1,
+  "Bacterial Spot": 2,
+  "Black Rot": 3,
+  "Downy Mildew": 4,
+  "Fusarium Wilt": 5,
+  "Healthy": 6,
+  "Powdery Mildew": 7
+}

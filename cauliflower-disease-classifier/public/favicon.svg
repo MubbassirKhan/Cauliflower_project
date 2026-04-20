@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="48" fill="#064e3b"/>
+  
+  <!-- Plant/Sprout Icon -->
+  <g transform="translate(50, 50)">
+    <!-- Stem -->
+    <rect x="-2" y="5" width="4" height="25" fill="#a3e635" rx="2"/>
+    
+    <!-- Left Leaf -->
+    <path d="M -2,15 Q -20,10 -22,0 Q -20,-5 -10,-3 Q -5,5 -2,15" fill="#a3e635"/>
+    
+    <!-- Right Leaf -->
+    <path d="M 2,15 Q 20,10 22,0 Q 20,-5 10,-3 Q 5,5 2,15" fill="#84cc16"/>
+    
+    <!-- Top Leaves -->
+    <ellipse cx="0" cy="-5" rx="8" ry="12" fill="#a3e635"/>
+    <ellipse cx="-6" cy="-8" rx="6" ry="10" fill="#84cc16"/>
+    <ellipse cx="6" cy="-8" rx="6" ry="10" fill="#bef264"/>
+  </g>
+</svg>
